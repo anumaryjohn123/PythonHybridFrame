@@ -1,0 +1,118 @@
+1685754736942	geckodriver	INFO	Listening on 127.0.0.1:54238
+1685754737384	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z5/2yg8v6hj5hgff59yjt5h901c0000gn/T/rust_mozprofilejspwdx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685754738264	Marionette	INFO	Marionette enabled
+1685754738446	Marionette	INFO	Listening on port 54275
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 54275
+2023-06-03 11:12:18.565 plugin-container[30433:798224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:12:18.565 plugin-container[30433:798224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:12:18.610 plugin-container[30433:798224] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:12:18.610 plugin-container[30433:798224] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:12:18.611 plugin-container[30433:798222] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:12:18.611 plugin-container[30433:798222] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:54239
+1685754738838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54239/devtools/browser/21cee7bc-64c5-41de-90d0-882aa33da549
+1685754856309	geckodriver	INFO	Listening on 127.0.0.1:54778
+1685754856830	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z5/2yg8v6hj5hgff59yjt5h901c0000gn/T/rust_mozprofileIBhBQc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685754857326	Marionette	INFO	Marionette enabled
+1685754857452	Marionette	INFO	Listening on port 54790
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-03 11:14:17.508 plugin-container[30491:799923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:14:17.508 plugin-container[30491:799923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:14:17.514 plugin-container[30491:799923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:14:17.514 plugin-container[30491:799923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:14:17.515 plugin-container[30491:799928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:14:17.515 plugin-container[30491:799928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54790
+WebDriver BiDi listening on ws://127.0.0.1:54779
+1685754857652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54779/devtools/browser/df96b2ac-d70b-4c0c-8d73-b5743e1ca3cc
+1685754911416	geckodriver	INFO	Listening on 127.0.0.1:55037
+1685754911428	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z5/2yg8v6hj5hgff59yjt5h901c0000gn/T/rust_mozprofilezl4Bk4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685754911976	Marionette	INFO	Marionette enabled
+1685754912118	Marionette	INFO	Listening on port 55047
+Read port: 55047
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-03 11:15:12.189 plugin-container[30543:801020] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:15:12.189 plugin-container[30543:801020] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:15:12.195 plugin-container[30543:801020] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:15:12.195 plugin-container[30543:801020] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:15:12.195 plugin-container[30543:801023] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:15:12.195 plugin-container[30543:801023] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55038
+1685754912310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55038/devtools/browser/1e1d0b30-6ad5-48ac-95d4-4cbc5d153331
+1685754950991	geckodriver	INFO	Listening on 127.0.0.1:55236
+1685754951527	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z5/2yg8v6hj5hgff59yjt5h901c0000gn/T/rust_mozprofilefV64Wv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685754952042	Marionette	INFO	Marionette enabled
+1685754952156	Marionette	INFO	Listening on port 55252
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-03 11:15:52.214 plugin-container[30589:801910] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:15:52.215 plugin-container[30589:801910] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:15:52.232 plugin-container[30589:801910] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:15:52.233 plugin-container[30589:801910] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:15:52.233 plugin-container[30589:801913] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:15:52.233 plugin-container[30589:801913] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 55252
+WebDriver BiDi listening on ws://127.0.0.1:55237
+1685754952400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55237/devtools/browser/3d871bce-13e7-4b31-902f-e3718e73dc5f
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30436, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685754965382	Marionette	INFO	Stopped listening on port 54275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685754967833	Marionette	INFO	Stopped listening on port 54790
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30545, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685754974460	Marionette	INFO	Stopped listening on port 55047
+1685755021701	geckodriver	INFO	Listening on 127.0.0.1:55569
+1685755021713	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z5/2yg8v6hj5hgff59yjt5h901c0000gn/T/rust_mozprofileRW3TIv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685755022194	Marionette	INFO	Marionette enabled
+1685755022307	Marionette	INFO	Listening on port 55579
+Read port: 55579
+2023-06-03 11:17:02.355 plugin-container[30651:803230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:17:02.355 plugin-container[30651:803230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-03 11:17:02.360 plugin-container[30651:803230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:17:02.360 plugin-container[30651:803230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-03 11:17:02.360 plugin-container[30651:803231] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-03 11:17:02.361 plugin-container[30651:803231] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55570
+1685755022609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55570/devtools/browser/57d4d79a-dc9f-4f60-bdc2-9b291a836a90
