@@ -1,0 +1,6 @@
+selenium
+requests
+webdriver-manager
+openpyxl
+pytest
+psycopg2
