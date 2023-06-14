@@ -1,7 +1,11 @@
+import pytest
 import requests
 import json
+import allure
 
 
+@pytest.mark.description("Validate API test")
+@allure.title('Successful Post request call')
 class Test_api_post:
     def test_apiPost(self):
         with open('Utils1/payload.json', 'r') as file:
