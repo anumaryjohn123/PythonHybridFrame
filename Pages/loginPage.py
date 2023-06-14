@@ -1,6 +1,5 @@
-import pytest
-import pytest
-import self as self
+
+
 
 from Pages.BasePage import BasePage
 import time

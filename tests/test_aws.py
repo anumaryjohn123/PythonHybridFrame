@@ -1,10 +1,10 @@
-import time
+
 
 import pytest
-from selenium.webdriver.common.by import By
+
 import allure
 
-from Pages.HomePage import HomePage
+
 from Pages.aws import aws
 
 
