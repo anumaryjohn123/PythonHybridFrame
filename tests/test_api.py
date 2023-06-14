@@ -15,7 +15,7 @@ class Test_api_post:
 
         if response.status_code == 201:
             # Request was successful
-            print(response.json())  # Display the response content in JSON format
+            print("**************Response from PostAPI CALL*********** \n", response.json())
         else:
             # Request encountered an error
             print('Error:', response.status_code)

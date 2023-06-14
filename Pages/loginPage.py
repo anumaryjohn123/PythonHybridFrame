@@ -1,6 +1,3 @@
-
-
-
 from Pages.BasePage import BasePage
 import time
 from Utils1.customLogger import LogGen
@@ -28,6 +25,7 @@ class LoginPage(BasePage):
         self.type_into_element(self.password, "textbox_password_id", self.textbox_password_id)
         time.sleep(1)
         self.element_click("button_login_css", self.button_login_css)
+        print("**************User Able to Login Successfully******** \n")
         self.title(self.exp_title)
         time.sleep(2)
         self.element_click("button_logout_css", self.button_logout_css)
@@ -39,12 +37,11 @@ class LoginPage(BasePage):
         self.element_click("button_login_css", self.button_login_css)
         try:
             assert self.exp_titl in self.title()
+            print("**************Invalid Credentials******** \n")
         finally:
             if AssertionError:
                 allure.attach(self.driver.get_screenshot_as_png(), name="Invalid Credentials",
                               attachment_type=allure.attachment_type.PNG)
-
-
 
     @allure.step("Entering username as {0}")
     def username(self):

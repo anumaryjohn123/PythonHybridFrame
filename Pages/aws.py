@@ -30,4 +30,4 @@ def aws(self):
         file_contents = file.read()
 
     # Print the file contents
-    print(file_contents)
+    print("*********AWS S3 File Content is as below******* \n", file_contents)

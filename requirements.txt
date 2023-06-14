@@ -4,3 +4,4 @@ webdriver-manager
 openpyxl
 pytest
 psycopg2
+boto3
